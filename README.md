@@ -17,3 +17,14 @@ When I was a young Conrad. KISS was the **first** band that I ever saw in real l
 ## Lyric Quotes
 * > I have 1 billion dads *Pleasantries*
 * > 25 years, consecutively, in a maximum security penitentury. *Pleasentries*
+**
+## Code Snipets
+```
+group('group of tests', () {
+  test('unit test', () {
+    expect(true, true);
+  });
+});
+```
+This code is used to create Dart unit tests. I don't know what that means, for I have never used Dart.
+[link to the collection I got this from](https://pieces.app/collections/dart)
