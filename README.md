@@ -15,5 +15,5 @@ When I was a young Conrad. KISS was the **first** band that I ever saw in real l
 [MyLocation](https://github.com/cdsorge04/practice-sorge/blob/main/MyLocation.md)
 ***
 ## Lyric Quotes
-> I have 1 billion dads *Pleasantries*
-> 25 years, consecutively, in a maximum security penitentury. *Pleasentries*
+* > I have 1 billion dads *Pleasantries*
+* > 25 years, consecutively, in a maximum security penitentury. *Pleasentries*
