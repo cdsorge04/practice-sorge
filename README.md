@@ -7,3 +7,9 @@ Kiss
 Sabaton
 ***
 Pleasantries
+## 3 Random Books
+Hitchhikers Guide to the Galaxy
+***
+Lord of the Rings
+***
+Horus Heresy
