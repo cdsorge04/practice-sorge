@@ -3,6 +3,6 @@ My favorite place to visit has to be the Cardboard Cafe in my hometown of Raymor
 ![cafe](carboardCafe)
 ***
 ## Places I'd Like To Visit
-|---|---:|
-|Japan|Germany|
-|Washington D.C.|Iowa|
+| --- | ---: |
+| Japan | Germany |
+| Washington D.C. | Iowa |
